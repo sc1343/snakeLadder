@@ -1,0 +1,34 @@
+Player notice:
+
+	* After start the game, Players can chat with each other.
+
+	* Players take the turn to toss dice. You can see the message from the chat and server GUI.
+
+	* If it is your turn, your toss dice button will be enabled.
+
+	* When more than one player on the same spot, it will only show the last one who gets to that spot.
+
+	* At most 6 players.
+
+	* Starting number will be 1. Ex: first toss dice you get 5. It will be 5+1=6.
+
+	* One Player exit, all player exit.
+
+
+Button:
+
+	* Toss Dice: the image will be the number you have. The position number will be added, and the players will be move automatically.
+	* Restart: start the new game for all the players. It will be enabled when one player wins the game. And disable when we play the new game.
+	* File: under file menu, you can exit.
+	* Help: under help menu, you can see About for information about the game.
+
+	
+
+Game Rule
+
+1. When a player lands on a top of a snake, their playing piece will slide down to the bottom of the snake.
+2. For the ladders, when a player lands at the base of a ladder, it immediately climbs to the top of the ladder. 
+3. The winner of this game will be the first user that reaches the highest space on the board, which is a hundred. 
+4. The restriction 
+	a. When a player almost reaches 100, the player needs to roll an exact number that reaches 100 in order to win the game.
+	b. If players roll the number that is over 100, they stay in the same space where they roll the dice.

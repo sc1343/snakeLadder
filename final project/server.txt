@@ -1,0 +1,29 @@
+Direction:
+	
+	1. Open up Server
+
+	2. Open up Client, an enter IP Address
+
+	3. When clients connect to server, send message button will be enable until the server starts the game
+
+	4. On the server, the refresh button can show the total number of players.
+
+	5. On the server, click the Start button to start the game.
+
+	5. The server will release the game board GUI and enable the send message button.
+
+
+
+Player notice:
+
+	* Players input IP addresses by themselves.
+
+	* Game Start by Server.
+
+	* After start the game, Players can chat with each other.
+
+	* At most 6 players. If you have more than 6 players. You still can chat. 
+
+	* However, in order to play, you have to exit/(input 'EXIT'). Start again.
+	
+	* One Player exit, all player exit.
